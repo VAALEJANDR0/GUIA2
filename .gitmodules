@@ -1,0 +1,12 @@
+[submodule "ejemplo1"]
+	path = ejemplo1
+	url = https://github.com/VAALEJANDR0/ejemplo1.git
+[submodule "ejemplo2"]
+	path = ejemplo2
+	url = https://github.com/VAALEJANDR0/ejemplo2.git
+[submodule "ejemplo3"]
+	path = ejemplo3
+	url = https://github.com/VAALEJANDR0/ejemplo3.git
+[submodule "ejemplo4"]
+	path = ejemplo4
+	url = https://github.com/VAALEJANDR0/ejemplo4.git
